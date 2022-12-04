@@ -1,0 +1,2 @@
+Copyright c. 2002 Lucas Gonze <lucas@gonze.com>
+
