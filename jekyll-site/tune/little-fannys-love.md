@@ -4,6 +4,4 @@ permalink: /tune/little-fannys-love
 layout: single
 classes: wide
 ---
-
-<img src="/tune/scan/little-fannys-love.jpg" alt="scanned sheet music for Little Fannys Love">
-
+{% include tune-markdown.md slug="little-fannys-love" title="Little Fannys Love" %}

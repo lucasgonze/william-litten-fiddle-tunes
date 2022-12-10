@@ -4,6 +4,4 @@ permalink: /tune/i-am-a-brisk-and-sprightly-lad
 layout: single
 classes: wide
 ---
-
-<img src="/tune/scan/i-am-a-brisk-and-sprightly-lad.jpg" alt="scanned sheet music for I Am A Brisk And Sprightly Lad">
-
+{% include tune-markdown.md slug="i-am-a-brisk-and-sprightly-lad" title="I Am A Brisk And Sprightly Lad" %}

@@ -4,6 +4,4 @@ permalink: /tune/lady-garners-troop
 layout: single
 classes: wide
 ---
-
-<img src="/tune/scan/lady-garners-troop.jpg" alt="scanned sheet music for Lady Garners Troop">
-
+{% include tune-markdown.md slug="lady-garners-troop" title="Lady Garners Troop" %}

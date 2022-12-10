@@ -4,6 +4,4 @@ permalink: /tune/jigg-poltague
 layout: single
 classes: wide
 ---
-
-<img src="/tune/scan/jigg-poltague.jpg" alt="scanned sheet music for Jigg Poltague">
-
+{% include tune-markdown.md slug="jigg-poltague" title="Jigg Poltague" %}

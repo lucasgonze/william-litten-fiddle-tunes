@@ -4,6 +4,4 @@ permalink: /tune/mairy-la-more
 layout: single
 classes: wide
 ---
-
-<img src="/tune/scan/mairy-la-more.jpg" alt="scanned sheet music for Mairy La More">
-
+{% include tune-markdown.md slug="mairy-la-more" title="Mairy La More" %}

@@ -4,6 +4,4 @@ permalink: /tune/miss-campbells-reel
 layout: single
 classes: wide
 ---
-
-<img src="/tune/scan/miss-campbells-reel.jpg" alt="scanned sheet music for Miss Campbells Reel">
-
+{% include tune-markdown.md slug="miss-campbells-reel" title="Miss Campbells Reel" %}

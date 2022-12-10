@@ -4,6 +4,4 @@ permalink: /tune/hear-gunner-watts
 layout: single
 classes: wide
 ---
-
-<img src="/tune/scan/hear-gunner-watts.jpg" alt="scanned sheet music for Hear Gunner Watts">
-
+{% include tune-markdown.md slug="hear-gunner-watts" title="Hear Gunner Watts" %}

@@ -4,6 +4,4 @@ permalink: /tune/kiss-my-wife-and-welcome
 layout: single
 classes: wide
 ---
-
-<img src="/tune/scan/kiss-my-wife-and-welcome.jpg" alt="scanned sheet music for Kiss My Wife And Welcome">
-
+{% include tune-markdown.md slug="kiss-my-wife-and-welcome" title="Kiss My Wife And Welcome" %}

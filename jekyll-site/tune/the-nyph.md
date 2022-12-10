@@ -4,6 +4,4 @@ permalink: /tune/the-nyph
 layout: single
 classes: wide
 ---
-
-<img src="/tune/scan/the-nyph.jpg" alt="scanned sheet music for The Nyph">
-
+{% include tune-markdown.md slug="the-nyph" title="The Nyph" %}

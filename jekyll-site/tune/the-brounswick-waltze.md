@@ -4,6 +4,4 @@ permalink: /tune/the-brounswick-waltze
 layout: single
 classes: wide
 ---
-
-<img src="/tune/scan/the-brounswick-waltze.jpg" alt="scanned sheet music for The Brounswick Waltze">
-
+{% include tune-markdown.md slug="the-brounswick-waltze" title="The Brounswick Waltze" %}

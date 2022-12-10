@@ -4,6 +4,4 @@ permalink: /tune/the-woodford-ship
 layout: single
 classes: wide
 ---
-
-<img src="/tune/scan/the-woodford-ship.jpg" alt="scanned sheet music for The Woodford Ship">
-
+{% include tune-markdown.md slug="the-woodford-ship" title="The Woodford Ship" %}

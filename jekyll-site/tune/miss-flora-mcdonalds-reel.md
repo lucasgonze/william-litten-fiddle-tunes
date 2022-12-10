@@ -4,6 +4,4 @@ permalink: /tune/miss-flora-mcdonalds-reel
 layout: single
 classes: wide
 ---
-
-<img src="/tune/scan/miss-flora-mcdonalds-reel.jpg" alt="scanned sheet music for Miss Flora McDonalds Reel">
-
+{% include tune-markdown.md slug="miss-flora-mcdonalds-reel" title="Miss Flora McDonalds Reel" %}

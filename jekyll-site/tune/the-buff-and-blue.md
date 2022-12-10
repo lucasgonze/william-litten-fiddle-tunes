@@ -4,6 +4,4 @@ permalink: /tune/the-buff-and-blue
 layout: single
 classes: wide
 ---
-
-<img src="/tune/scan/the-buff-and-blue.jpg" alt="scanned sheet music for The Buff And Blue">
-
+{% include tune-markdown.md slug="the-buff-and-blue" title="The Buff And Blue" %}

@@ -4,6 +4,4 @@ permalink: /tune/welcome-here-again
 layout: single
 classes: wide
 ---
-
-<img src="/tune/scan/welcome-here-again.jpg" alt="scanned sheet music for Welcome Here Again">
-
+{% include tune-markdown.md slug="welcome-here-again" title="Welcome Here Again" %}

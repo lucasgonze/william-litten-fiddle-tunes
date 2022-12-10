@@ -4,6 +4,4 @@ permalink: /tune/the-curly-locks
 layout: single
 classes: wide
 ---
-
-<img src="/tune/scan/the-curly-locks.jpg" alt="scanned sheet music for The Curly Locks">
-
+{% include tune-markdown.md slug="the-curly-locks" title="The Curly Locks" %}

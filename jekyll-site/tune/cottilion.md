@@ -4,6 +4,4 @@ permalink: /tune/cottilion
 layout: single
 classes: wide
 ---
-
-<img src="/tune/scan/cottilion.jpg" alt="scanned sheet music for Cottilion">
-
+{% include tune-markdown.md slug="cottilion" title="Cottilion" %}

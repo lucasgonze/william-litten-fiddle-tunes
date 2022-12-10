@@ -4,6 +4,4 @@ permalink: /tune/warrens-victory
 layout: single
 classes: wide
 ---
-
-<img src="/tune/scan/warrens-victory.jpg" alt="scanned sheet music for Warrens Victory">
-
+{% include tune-markdown.md slug="warrens-victory" title="Warrens Victory" %}

@@ -24,9 +24,7 @@ permalink: /tune/$SLUG
 layout: single
 classes: wide
 ---
-
-<img src="/tune/scan/$SLUG.jpg" alt="scanned sheet music for $TITLE">
-
+{% include tune-markdown.md slug="$SLUG" title="$TITLE" %}
 EOF
 
     echo "<a href='tune/$SLUG'>$TITLE</a><br>" >> "$EMBEDDED_LIST"

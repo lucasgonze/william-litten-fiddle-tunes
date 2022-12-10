@@ -4,6 +4,4 @@ permalink: /tune/navy-dance
 layout: single
 classes: wide
 ---
-
-<img src="/tune/scan/navy-dance.jpg" alt="scanned sheet music for Navy Dance">
-
+{% include tune-markdown.md slug="navy-dance" title="Navy Dance" %}

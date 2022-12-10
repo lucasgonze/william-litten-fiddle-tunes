@@ -4,6 +4,4 @@ permalink: /tune/maidens-march
 layout: single
 classes: wide
 ---
-
-<img src="/tune/scan/maidens-march.jpg" alt="scanned sheet music for Maidens March">
-
+{% include tune-markdown.md slug="maidens-march" title="Maidens March" %}

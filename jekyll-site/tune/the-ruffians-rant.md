@@ -4,6 +4,4 @@ permalink: /tune/the-ruffians-rant
 layout: single
 classes: wide
 ---
-
-<img src="/tune/scan/the-ruffians-rant.jpg" alt="scanned sheet music for The Ruffians Rant">
-
+{% include tune-markdown.md slug="the-ruffians-rant" title="The Ruffians Rant" %}

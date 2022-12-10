@@ -4,6 +4,4 @@ permalink: /tune/speed-the-plow
 layout: single
 classes: wide
 ---
-
-<img src="/tune/scan/speed-the-plow.jpg" alt="scanned sheet music for Speed The Plow">
-
+{% include tune-markdown.md slug="speed-the-plow" title="Speed The Plow" %}

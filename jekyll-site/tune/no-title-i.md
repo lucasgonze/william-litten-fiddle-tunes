@@ -4,6 +4,4 @@ permalink: /tune/no-title-i
 layout: single
 classes: wide
 ---
-
-<img src="/tune/scan/no-title-i.jpg" alt="scanned sheet music for No Title I">
-
+{% include tune-markdown.md slug="no-title-i" title="No Title I" %}

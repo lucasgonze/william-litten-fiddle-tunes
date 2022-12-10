@@ -4,6 +4,4 @@ permalink: /tune/light-horse-reel
 layout: single
 classes: wide
 ---
-
-<img src="/tune/scan/light-horse-reel.jpg" alt="scanned sheet music for Light Horse Reel">
-
+{% include tune-markdown.md slug="light-horse-reel" title="Light Horse Reel" %}

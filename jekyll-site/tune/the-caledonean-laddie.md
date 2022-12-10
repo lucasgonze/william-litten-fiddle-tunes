@@ -4,6 +4,4 @@ permalink: /tune/the-caledonean-laddie
 layout: single
 classes: wide
 ---
-
-<img src="/tune/scan/the-caledonean-laddie.jpg" alt="scanned sheet music for The Caledonean Laddie">
-
+{% include tune-markdown.md slug="the-caledonean-laddie" title="The Caledonean Laddie" %}

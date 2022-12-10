@@ -4,6 +4,4 @@ permalink: /tune/hornpipe
 layout: single
 classes: wide
 ---
-
-<img src="/tune/scan/hornpipe.jpg" alt="scanned sheet music for Hornpipe">
-
+{% include tune-markdown.md slug="hornpipe" title="Hornpipe" %}

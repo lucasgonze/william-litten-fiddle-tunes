@@ -4,6 +4,4 @@ permalink: /tune/over-young-to-marry
 layout: single
 classes: wide
 ---
-
-<img src="/tune/scan/over-young-to-marry.jpg" alt="scanned sheet music for Over Young To Marry">
-
+{% include tune-markdown.md slug="over-young-to-marry" title="Over Young To Marry" %}

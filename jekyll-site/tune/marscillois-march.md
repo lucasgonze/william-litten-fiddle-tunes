@@ -4,6 +4,4 @@ permalink: /tune/marscillois-march
 layout: single
 classes: wide
 ---
-
-<img src="/tune/scan/marscillois-march.jpg" alt="scanned sheet music for Marscillois March">
-
+{% include tune-markdown.md slug="marscillois-march" title="Marscillois March" %}

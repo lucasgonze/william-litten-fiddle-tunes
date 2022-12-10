@@ -4,6 +4,4 @@ permalink: /tune/from-night-till-morn
 layout: single
 classes: wide
 ---
-
-<img src="/tune/scan/from-night-till-morn.jpg" alt="scanned sheet music for From Night Till Morn">
-
+{% include tune-markdown.md slug="from-night-till-morn" title="From Night Till Morn" %}

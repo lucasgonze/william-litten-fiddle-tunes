@@ -4,6 +4,4 @@ permalink: /tune/lady-bruces-reel
 layout: single
 classes: wide
 ---
-
-<img src="/tune/scan/lady-bruces-reel.jpg" alt="scanned sheet music for Lady Bruces Reel">
-
+{% include tune-markdown.md slug="lady-bruces-reel" title="Lady Bruces Reel" %}

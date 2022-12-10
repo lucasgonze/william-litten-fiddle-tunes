@@ -4,6 +4,4 @@ permalink: /tune/devil-and-shake-yourself
 layout: single
 classes: wide
 ---
-
-<img src="/tune/scan/devil-and-shake-yourself.jpg" alt="scanned sheet music for Devil And Shake Yourself">
-
+{% include tune-markdown.md slug="devil-and-shake-yourself" title="Devil And Shake Yourself" %}

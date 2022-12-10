@@ -4,6 +4,4 @@ permalink: /tune/del-caros-fancy
 layout: single
 classes: wide
 ---
-
-<img src="/tune/scan/del-caros-fancy.jpg" alt="scanned sheet music for Del Caros Fancy">
-
+{% include tune-markdown.md slug="del-caros-fancy" title="Del Caros Fancy" %}

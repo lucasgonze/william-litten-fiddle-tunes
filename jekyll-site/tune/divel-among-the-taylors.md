@@ -4,6 +4,4 @@ permalink: /tune/divel-among-the-taylors
 layout: single
 classes: wide
 ---
-
-<img src="/tune/scan/divel-among-the-taylors.jpg" alt="scanned sheet music for Divel Among The Taylors">
-
+{% include tune-markdown.md slug="divel-among-the-taylors" title="Divel Among The Taylors" %}

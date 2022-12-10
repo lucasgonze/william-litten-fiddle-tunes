@@ -4,6 +4,4 @@ permalink: /tune/miss-manns-reel
 layout: single
 classes: wide
 ---
-
-<img src="/tune/scan/miss-manns-reel.jpg" alt="scanned sheet music for Miss Manns Reel">
-
+{% include tune-markdown.md slug="miss-manns-reel" title="Miss Manns Reel" %}

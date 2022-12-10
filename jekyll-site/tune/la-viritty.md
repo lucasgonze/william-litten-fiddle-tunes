@@ -4,6 +4,4 @@ permalink: /tune/la-viritty
 layout: single
 classes: wide
 ---
-
-<img src="/tune/scan/la-viritty.jpg" alt="scanned sheet music for La Viritty">
-
+{% include tune-markdown.md slug="la-viritty" title="La Viritty" %}

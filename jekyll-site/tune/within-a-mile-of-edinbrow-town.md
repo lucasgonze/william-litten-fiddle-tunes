@@ -4,6 +4,4 @@ permalink: /tune/within-a-mile-of-edinbrow-town
 layout: single
 classes: wide
 ---
-
-<img src="/tune/scan/within-a-mile-of-edinbrow-town.jpg" alt="scanned sheet music for Within A Mile Of Edinbrow Town">
-
+{% include tune-markdown.md slug="within-a-mile-of-edinbrow-town" title="Within A Mile Of Edinbrow Town" %}

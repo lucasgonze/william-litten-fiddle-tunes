@@ -4,6 +4,4 @@ permalink: /tune/the-village-maid
 layout: single
 classes: wide
 ---
-
-<img src="/tune/scan/the-village-maid.jpg" alt="scanned sheet music for The Village Maid">
-
+{% include tune-markdown.md slug="the-village-maid" title="The Village Maid" %}

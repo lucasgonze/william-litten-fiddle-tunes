@@ -4,6 +4,4 @@ permalink: /tune/farewell-to-limerick-or-the-croppys-retreat
 layout: single
 classes: wide
 ---
-
-<img src="/tune/scan/farewell-to-limerick-or-the-croppys-retreat.jpg" alt="scanned sheet music for Farewell To Limerick or The Croppys Retreat">
-
+{% include tune-markdown.md slug="farewell-to-limerick-or-the-croppys-retreat" title="Farewell To Limerick or The Croppys Retreat" %}

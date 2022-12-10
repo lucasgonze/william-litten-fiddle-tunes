@@ -4,6 +4,4 @@ permalink: /tune/the-bottom-of-the-punch-bowl
 layout: single
 classes: wide
 ---
-
-<img src="/tune/scan/the-bottom-of-the-punch-bowl.jpg" alt="scanned sheet music for The Bottom Of The Punch Bowl">
-
+{% include tune-markdown.md slug="the-bottom-of-the-punch-bowl" title="The Bottom Of The Punch Bowl" %}

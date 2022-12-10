@@ -4,6 +4,4 @@ permalink: /tune/hanover-waltz
 layout: single
 classes: wide
 ---
-
-<img src="/tune/scan/hanover-waltz.jpg" alt="scanned sheet music for Hanover Waltz">
-
+{% include tune-markdown.md slug="hanover-waltz" title="Hanover Waltz" %}

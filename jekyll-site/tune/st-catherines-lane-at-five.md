@@ -4,6 +4,4 @@ permalink: /tune/st-catherines-lane-at-five
 layout: single
 classes: wide
 ---
-
-<img src="/tune/scan/st-catherines-lane-at-five.jpg" alt="scanned sheet music for St. Catherines Lane At Five">
-
+{% include tune-markdown.md slug="st-catherines-lane-at-five" title="St. Catherines Lane At Five" %}

@@ -4,6 +4,4 @@ permalink: /tune/wild-irish-man
 layout: single
 classes: wide
 ---
-
-<img src="/tune/scan/wild-irish-man.jpg" alt="scanned sheet music for Wild Irish Man">
-
+{% include tune-markdown.md slug="wild-irish-man" title="Wild Irish Man" %}

@@ -4,6 +4,4 @@ permalink: /tune/lady-ramsey
 layout: single
 classes: wide
 ---
-
-<img src="/tune/scan/lady-ramsey.jpg" alt="scanned sheet music for Lady Ramsey">
-
+{% include tune-markdown.md slug="lady-ramsey" title="Lady Ramsey" %}

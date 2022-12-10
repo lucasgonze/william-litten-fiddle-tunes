@@ -4,6 +4,4 @@ permalink: /tune/miss-carberys-reel
 layout: single
 classes: wide
 ---
-
-<img src="/tune/scan/miss-carberys-reel.jpg" alt="scanned sheet music for Miss Carberys Reel">
-
+{% include tune-markdown.md slug="miss-carberys-reel" title="Miss Carberys Reel" %}

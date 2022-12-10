@@ -4,6 +4,4 @@ permalink: /tune/fox-hunters-jigg
 layout: single
 classes: wide
 ---
-
-<img src="/tune/scan/fox-hunters-jigg.jpg" alt="scanned sheet music for Fox Hunters Jigg">
-
+{% include tune-markdown.md slug="fox-hunters-jigg" title="Fox Hunters Jigg" %}

@@ -4,6 +4,4 @@ permalink: /tune/courtneys-rando
 layout: single
 classes: wide
 ---
-
-<img src="/tune/scan/courtneys-rando.jpg" alt="scanned sheet music for Courtneys Rando">
-
+{% include tune-markdown.md slug="courtneys-rando" title="Courtneys Rando" %}

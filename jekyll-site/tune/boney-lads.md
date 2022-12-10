@@ -4,6 +4,4 @@ permalink: /tune/boney-lads
 layout: single
 classes: wide
 ---
-
-<img src="/tune/scan/boney-lads.jpg" alt="scanned sheet music for Boney Lads">
-
+{% include tune-markdown.md slug="boney-lads" title="Boney Lads" %}

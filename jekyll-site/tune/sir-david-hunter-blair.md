@@ -4,6 +4,4 @@ permalink: /tune/sir-david-hunter-blair
 layout: single
 classes: wide
 ---
-
-<img src="/tune/scan/sir-david-hunter-blair.jpg" alt="scanned sheet music for Sir David Hunter Blair">
-
+{% include tune-markdown.md slug="sir-david-hunter-blair" title="Sir David Hunter Blair" %}

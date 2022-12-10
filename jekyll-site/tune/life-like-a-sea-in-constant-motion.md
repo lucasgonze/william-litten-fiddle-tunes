@@ -4,6 +4,4 @@ permalink: /tune/life-like-a-sea-in-constant-motion
 layout: single
 classes: wide
 ---
-
-<img src="/tune/scan/life-like-a-sea-in-constant-motion.jpg" alt="scanned sheet music for Life Like A Sea In Constant Motion">
-
+{% include tune-markdown.md slug="life-like-a-sea-in-constant-motion" title="Life Like A Sea In Constant Motion" %}

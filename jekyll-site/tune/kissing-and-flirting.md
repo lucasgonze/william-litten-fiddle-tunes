@@ -4,6 +4,4 @@ permalink: /tune/kissing-and-flirting
 layout: single
 classes: wide
 ---
-
-<img src="/tune/scan/kissing-and-flirting.jpg" alt="scanned sheet music for Kissing And Flirting">
-
+{% include tune-markdown.md slug="kissing-and-flirting" title="Kissing And Flirting" %}

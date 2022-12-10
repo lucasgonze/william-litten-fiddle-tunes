@@ -4,6 +4,4 @@ permalink: /tune/woodlands
 layout: single
 classes: wide
 ---
-
-<img src="/tune/scan/woodlands.jpg" alt="scanned sheet music for Woodlands">
-
+{% include tune-markdown.md slug="woodlands" title="Woodlands" %}

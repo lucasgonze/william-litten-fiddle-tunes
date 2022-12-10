@@ -4,6 +4,4 @@ permalink: /tune/all-well
 layout: single
 classes: wide
 ---
-
-<img src="/tune/scan/all-well.jpg" alt="scanned sheet music for All Well">
-
+{% include tune-markdown.md slug="all-well" title="All Well" %}

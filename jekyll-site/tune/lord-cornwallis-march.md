@@ -4,6 +4,4 @@ permalink: /tune/lord-cornwallis-march
 layout: single
 classes: wide
 ---
-
-<img src="/tune/scan/lord-cornwallis-march.jpg" alt="scanned sheet music for Lord Cornwallis March">
-
+{% include tune-markdown.md slug="lord-cornwallis-march" title="Lord Cornwallis March" %}

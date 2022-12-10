@@ -4,6 +4,4 @@ permalink: /tune/kiss-in-the-furz
 layout: single
 classes: wide
 ---
-
-<img src="/tune/scan/kiss-in-the-furz.jpg" alt="scanned sheet music for Kiss In The Furz">
-
+{% include tune-markdown.md slug="kiss-in-the-furz" title="Kiss In The Furz" %}

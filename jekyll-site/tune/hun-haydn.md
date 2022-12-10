@@ -4,6 +4,4 @@ permalink: /tune/hun-haydn
 layout: single
 classes: wide
 ---
-
-<img src="/tune/scan/hun-haydn.jpg" alt="scanned sheet music for Hun Haydn">
-
+{% include tune-markdown.md slug="hun-haydn" title="Hun Haydn" %}
