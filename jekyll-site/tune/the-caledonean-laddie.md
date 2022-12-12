@@ -1,6 +1,6 @@
 ---
 title:  The Caledonean Laddie
-permalink: /tune/the-caledonean-laddie
+permalink: /tune/the-caledonean-laddie.html
 layout: single
 classes: wide
 ---

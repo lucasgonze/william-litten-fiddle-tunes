@@ -1,6 +1,6 @@
 ---
 title:  Duke Of Gordons Reel
-permalink: /tune/duke-of-gordons-reel
+permalink: /tune/duke-of-gordons-reel.html
 layout: single
 classes: wide
 ---

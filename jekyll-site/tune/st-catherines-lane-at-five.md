@@ -1,6 +1,6 @@
 ---
 title:  St. Catherines Lane At Five
-permalink: /tune/st-catherines-lane-at-five
+permalink: /tune/st-catherines-lane-at-five.html
 layout: single
 classes: wide
 ---

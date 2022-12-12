@@ -1,6 +1,6 @@
 ---
 title:  Patricks Hill
-permalink: /tune/patricks-hill
+permalink: /tune/patricks-hill.html
 layout: single
 classes: wide
 ---

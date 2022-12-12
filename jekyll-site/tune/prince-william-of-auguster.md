@@ -1,6 +1,6 @@
 ---
 title:  Prince William Of Auguster
-permalink: /tune/prince-william-of-auguster
+permalink: /tune/prince-william-of-auguster.html
 layout: single
 classes: wide
 ---

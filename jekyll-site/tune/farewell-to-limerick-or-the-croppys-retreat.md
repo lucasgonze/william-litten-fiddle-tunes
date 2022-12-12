@@ -1,6 +1,6 @@
 ---
 title:  Farewell To Limerick or The Croppys Retreat
-permalink: /tune/farewell-to-limerick-or-the-croppys-retreat
+permalink: /tune/farewell-to-limerick-or-the-croppys-retreat.html
 layout: single
 classes: wide
 ---

@@ -1,6 +1,6 @@
 ---
 title:  The Royal Hunt
-permalink: /tune/the-royal-hunt
+permalink: /tune/the-royal-hunt.html
 layout: single
 classes: wide
 ---

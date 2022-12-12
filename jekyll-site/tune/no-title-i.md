@@ -1,6 +1,6 @@
 ---
 title:  No Title I
-permalink: /tune/no-title-i
+permalink: /tune/no-title-i.html
 layout: single
 classes: wide
 ---

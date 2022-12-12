@@ -1,6 +1,6 @@
 ---
 title:  Del Caros Fancy
-permalink: /tune/del-caros-fancy
+permalink: /tune/del-caros-fancy.html
 layout: single
 classes: wide
 ---

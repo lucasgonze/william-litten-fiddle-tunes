@@ -1,6 +1,6 @@
 ---
 title:  Phil Ormand
-permalink: /tune/phil-ormand
+permalink: /tune/phil-ormand.html
 layout: single
 classes: wide
 ---

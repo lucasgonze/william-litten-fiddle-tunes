@@ -1,6 +1,6 @@
 ---
 title:  The Lass Of Pattys Mill
-permalink: /tune/the-lass-of-pattys-mill
+permalink: /tune/the-lass-of-pattys-mill.html
 layout: single
 classes: wide
 ---

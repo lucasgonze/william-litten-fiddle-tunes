@@ -1,6 +1,6 @@
 ---
 title:  Lord Cornwallis March
-permalink: /tune/lord-cornwallis-march
+permalink: /tune/lord-cornwallis-march.html
 layout: single
 classes: wide
 ---

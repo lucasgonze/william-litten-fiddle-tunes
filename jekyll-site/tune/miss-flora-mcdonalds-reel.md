@@ -1,6 +1,6 @@
 ---
 title:  Miss Flora McDonalds Reel
-permalink: /tune/miss-flora-mcdonalds-reel
+permalink: /tune/miss-flora-mcdonalds-reel.html
 layout: single
 classes: wide
 ---

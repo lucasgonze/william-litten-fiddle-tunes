@@ -1,6 +1,6 @@
 ---
 title:  Boney Lads
-permalink: /tune/boney-lads
+permalink: /tune/boney-lads.html
 layout: single
 classes: wide
 ---

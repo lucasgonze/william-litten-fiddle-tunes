@@ -1,6 +1,6 @@
 ---
 title:  Bonapartes March
-permalink: /tune/bonapartes-march
+permalink: /tune/bonapartes-march.html
 layout: single
 classes: wide
 ---

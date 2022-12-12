@@ -1,6 +1,6 @@
 ---
 title:  Downeys Lock
-permalink: /tune/downeys-lock
+permalink: /tune/downeys-lock.html
 layout: single
 classes: wide
 ---

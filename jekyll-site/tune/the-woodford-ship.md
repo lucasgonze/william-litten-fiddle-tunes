@@ -1,6 +1,6 @@
 ---
 title:  The Woodford Ship
-permalink: /tune/the-woodford-ship
+permalink: /tune/the-woodford-ship.html
 layout: single
 classes: wide
 ---

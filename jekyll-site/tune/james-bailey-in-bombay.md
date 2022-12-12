@@ -1,6 +1,6 @@
 ---
 title:  James Bailey In Bombay
-permalink: /tune/james-bailey-in-bombay
+permalink: /tune/james-bailey-in-bombay.html
 layout: single
 classes: wide
 ---

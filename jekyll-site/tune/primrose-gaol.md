@@ -1,6 +1,6 @@
 ---
 title:  Primrose Gaol
-permalink: /tune/primrose-gaol
+permalink: /tune/primrose-gaol.html
 layout: single
 classes: wide
 ---

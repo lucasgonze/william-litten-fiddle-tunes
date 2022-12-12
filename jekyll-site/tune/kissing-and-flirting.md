@@ -1,6 +1,6 @@
 ---
 title:  Kissing And Flirting
-permalink: /tune/kissing-and-flirting
+permalink: /tune/kissing-and-flirting.html
 layout: single
 classes: wide
 ---

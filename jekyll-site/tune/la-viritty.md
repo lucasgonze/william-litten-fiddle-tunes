@@ -1,6 +1,6 @@
 ---
 title:  La Viritty
-permalink: /tune/la-viritty
+permalink: /tune/la-viritty.html
 layout: single
 classes: wide
 ---

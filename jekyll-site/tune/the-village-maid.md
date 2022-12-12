@@ -1,6 +1,6 @@
 ---
 title:  The Village Maid
-permalink: /tune/the-village-maid
+permalink: /tune/the-village-maid.html
 layout: single
 classes: wide
 ---

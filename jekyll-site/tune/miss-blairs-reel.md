@@ -1,6 +1,6 @@
 ---
 title:  Miss Blairs Reel
-permalink: /tune/miss-blairs-reel
+permalink: /tune/miss-blairs-reel.html
 layout: single
 classes: wide
 ---

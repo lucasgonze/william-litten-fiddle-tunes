@@ -1,6 +1,6 @@
 ---
 title:  Maidens March
-permalink: /tune/maidens-march
+permalink: /tune/maidens-march.html
 layout: single
 classes: wide
 ---

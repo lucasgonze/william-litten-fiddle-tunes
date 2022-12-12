@@ -1,6 +1,6 @@
 ---
 title:  I Am A Brisk And Sprightly Lad
-permalink: /tune/i-am-a-brisk-and-sprightly-lad
+permalink: /tune/i-am-a-brisk-and-sprightly-lad.html
 layout: single
 classes: wide
 ---

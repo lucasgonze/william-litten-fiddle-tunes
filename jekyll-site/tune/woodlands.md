@@ -1,6 +1,6 @@
 ---
 title:  Woodlands
-permalink: /tune/woodlands
+permalink: /tune/woodlands.html
 layout: single
 classes: wide
 ---

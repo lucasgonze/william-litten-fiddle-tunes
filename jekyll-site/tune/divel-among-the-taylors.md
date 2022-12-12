@@ -1,6 +1,6 @@
 ---
 title:  Divel Among The Taylors
-permalink: /tune/divel-among-the-taylors
+permalink: /tune/divel-among-the-taylors.html
 layout: single
 classes: wide
 ---

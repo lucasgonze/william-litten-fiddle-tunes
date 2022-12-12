@@ -1,6 +1,6 @@
 ---
 title:  The Bottom Of The Punch Bowl
-permalink: /tune/the-bottom-of-the-punch-bowl
+permalink: /tune/the-bottom-of-the-punch-bowl.html
 layout: single
 classes: wide
 ---

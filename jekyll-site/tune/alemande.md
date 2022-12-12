@@ -1,6 +1,6 @@
 ---
 title:  Alemande
-permalink: /tune/alemande
+permalink: /tune/alemande.html
 layout: single
 classes: wide
 ---

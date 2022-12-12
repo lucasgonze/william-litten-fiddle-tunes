@@ -1,6 +1,6 @@
 ---
 title:  Within A Mile Of Edinbrow Town
-permalink: /tune/within-a-mile-of-edinbrow-town
+permalink: /tune/within-a-mile-of-edinbrow-town.html
 layout: single
 classes: wide
 ---

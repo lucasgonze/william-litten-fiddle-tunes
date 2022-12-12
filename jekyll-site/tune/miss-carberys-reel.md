@@ -1,6 +1,6 @@
 ---
 title:  Miss Carberys Reel
-permalink: /tune/miss-carberys-reel
+permalink: /tune/miss-carberys-reel.html
 layout: single
 classes: wide
 ---

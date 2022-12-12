@@ -1,6 +1,6 @@
 ---
 title:  The Blue Bells Of Challon
-permalink: /tune/the-blue-bells-of-challon
+permalink: /tune/the-blue-bells-of-challon.html
 layout: single
 classes: wide
 ---

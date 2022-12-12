@@ -1,6 +1,6 @@
 ---
 title:  Garisson Frolick
-permalink: /tune/garisson-frolick
+permalink: /tune/garisson-frolick.html
 layout: single
 classes: wide
 ---

@@ -1,6 +1,6 @@
 ---
 title:  Wild Irish Man
-permalink: /tune/wild-irish-man
+permalink: /tune/wild-irish-man.html
 layout: single
 classes: wide
 ---

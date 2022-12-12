@@ -1,6 +1,6 @@
 ---
 title:  The Highland Man
-permalink: /tune/the-highland-man
+permalink: /tune/the-highland-man.html
 layout: single
 classes: wide
 ---

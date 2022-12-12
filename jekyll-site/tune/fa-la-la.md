@@ -1,6 +1,6 @@
 ---
 title:  Fa La La
-permalink: /tune/fa-la-la
+permalink: /tune/fa-la-la.html
 layout: single
 classes: wide
 ---

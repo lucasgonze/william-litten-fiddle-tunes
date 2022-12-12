@@ -1,6 +1,6 @@
 ---
 title:  Ship New Rigged
-permalink: /tune/ship-new-rigged
+permalink: /tune/ship-new-rigged.html
 layout: single
 classes: wide
 ---

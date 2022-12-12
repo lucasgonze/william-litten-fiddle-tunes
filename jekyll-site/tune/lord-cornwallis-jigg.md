@@ -1,6 +1,6 @@
 ---
 title:  Lord Cornwallis Jigg
-permalink: /tune/lord-cornwallis-jigg
+permalink: /tune/lord-cornwallis-jigg.html
 layout: single
 classes: wide
 ---

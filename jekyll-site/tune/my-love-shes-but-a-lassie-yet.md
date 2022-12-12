@@ -1,6 +1,6 @@
 ---
 title:  My Love Shes But A Lassie Yet
-permalink: /tune/my-love-shes-but-a-lassie-yet
+permalink: /tune/my-love-shes-but-a-lassie-yet.html
 layout: single
 classes: wide
 ---

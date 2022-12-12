@@ -1,6 +1,6 @@
 ---
 title:  Royal Review
-permalink: /tune/royal-review
+permalink: /tune/royal-review.html
 layout: single
 classes: wide
 ---

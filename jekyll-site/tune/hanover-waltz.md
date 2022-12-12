@@ -1,6 +1,6 @@
 ---
 title:  Hanover Waltz
-permalink: /tune/hanover-waltz
+permalink: /tune/hanover-waltz.html
 layout: single
 classes: wide
 ---

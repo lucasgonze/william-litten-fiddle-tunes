@@ -1,6 +1,6 @@
 ---
 title:  Speed The Plow
-permalink: /tune/speed-the-plow
+permalink: /tune/speed-the-plow.html
 layout: single
 classes: wide
 ---

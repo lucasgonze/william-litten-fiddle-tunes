@@ -1,6 +1,6 @@
 ---
 title:  Cumberland House
-permalink: /tune/cumberland-house
+permalink: /tune/cumberland-house.html
 layout: single
 classes: wide
 ---

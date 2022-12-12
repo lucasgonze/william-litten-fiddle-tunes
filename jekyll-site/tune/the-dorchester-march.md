@@ -1,6 +1,6 @@
 ---
 title:  The Dorchester March
-permalink: /tune/the-dorchester-march
+permalink: /tune/the-dorchester-march.html
 layout: single
 classes: wide
 ---

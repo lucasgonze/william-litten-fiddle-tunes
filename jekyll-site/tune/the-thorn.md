@@ -1,6 +1,6 @@
 ---
 title:  The Thorn
-permalink: /tune/the-thorn
+permalink: /tune/the-thorn.html
 layout: single
 classes: wide
 ---

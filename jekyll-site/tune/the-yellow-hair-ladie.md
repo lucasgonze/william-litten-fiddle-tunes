@@ -1,6 +1,6 @@
 ---
 title:  The Yellow Hair Ladie
-permalink: /tune/the-yellow-hair-ladie
+permalink: /tune/the-yellow-hair-ladie.html
 layout: single
 classes: wide
 ---

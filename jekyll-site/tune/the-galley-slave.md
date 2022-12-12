@@ -1,6 +1,6 @@
 ---
 title:  The Galley Slave
-permalink: /tune/the-galley-slave
+permalink: /tune/the-galley-slave.html
 layout: single
 classes: wide
 ---

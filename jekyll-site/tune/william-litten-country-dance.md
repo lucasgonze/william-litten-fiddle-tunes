@@ -1,6 +1,6 @@
 ---
 title:  William Litten Country Dance
-permalink: /tune/william-litten-country-dance
+permalink: /tune/william-litten-country-dance.html
 layout: single
 classes: wide
 ---

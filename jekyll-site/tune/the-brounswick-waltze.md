@@ -1,6 +1,6 @@
 ---
 title:  The Brounswick Waltze
-permalink: /tune/the-brounswick-waltze
+permalink: /tune/the-brounswick-waltze.html
 layout: single
 classes: wide
 ---

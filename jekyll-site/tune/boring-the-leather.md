@@ -1,6 +1,6 @@
 ---
 title:  Boring The Leather
-permalink: /tune/boring-the-leather
+permalink: /tune/boring-the-leather.html
 layout: single
 classes: wide
 ---

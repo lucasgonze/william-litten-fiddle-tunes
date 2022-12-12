@@ -1,6 +1,6 @@
 ---
 title:  Go To The Devil And Shake Yourself
-permalink: /tune/go-to-the-devil-and-shake-yourself
+permalink: /tune/go-to-the-devil-and-shake-yourself.html
 layout: single
 classes: wide
 ---

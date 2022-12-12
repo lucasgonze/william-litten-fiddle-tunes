@@ -1,6 +1,6 @@
 ---
 title:  The Caledonean Hunt
-permalink: /tune/the-caledonean-hunt
+permalink: /tune/the-caledonean-hunt.html
 layout: single
 classes: wide
 ---

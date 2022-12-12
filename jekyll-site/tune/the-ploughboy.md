@@ -1,6 +1,6 @@
 ---
 title:  The Ploughboy
-permalink: /tune/the-ploughboy
+permalink: /tune/the-ploughboy.html
 layout: single
 classes: wide
 ---

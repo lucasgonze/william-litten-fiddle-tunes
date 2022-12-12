@@ -4,7 +4,7 @@ This is a project to digitize the music in an out-of-print book titled "William 
 
 In the forty-ish years since since then I have returned to the book again and again, and my copy has become badly worn. The cover is falling off. The binding won't last much longer. Yet there seems to be no alternative to my dog-eared copy. It's out of print, so I can't buy a new one. There appear to be no digitized scans, though several academic libraries appear to have listings of hard copy versions. 
 
-In addition to my personal need to have a replacement for the book, letting it disappear seems wrong to me. This knowledge and these sounds shouldn't be lost. Huntington's publication of Litten's hand-written original kept it alive for me. I hope this digital version here will keep it alive for other musicians and music historians. 
+In addition to my personal need to have a replacement for the book, letting it disappear seems wrong to me. This knowledge and these sounds shouldn't be lost. Huntington's publication of Litten's hand-written original kept it alive for me. I hope this digital version here and at [williamlitten.gonze.com](https://williamlitten.gonze.com) will keep it alive for other musicians and music historians. 
 
 In addition I hope to make improvements:
 

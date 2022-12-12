@@ -1,6 +1,6 @@
 ---
 title:  Marscillois March
-permalink: /tune/marscillois-march
+permalink: /tune/marscillois-march.html
 layout: single
 classes: wide
 ---

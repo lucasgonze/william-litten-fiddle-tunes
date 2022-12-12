@@ -1,6 +1,6 @@
 ---
 title:  The Collage Hompipe
-permalink: /tune/the-collage-hompipe
+permalink: /tune/the-collage-hompipe.html
 layout: single
 classes: wide
 ---

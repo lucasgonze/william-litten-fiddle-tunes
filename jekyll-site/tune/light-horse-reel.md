@@ -1,6 +1,6 @@
 ---
 title:  Light Horse Reel
-permalink: /tune/light-horse-reel
+permalink: /tune/light-horse-reel.html
 layout: single
 classes: wide
 ---

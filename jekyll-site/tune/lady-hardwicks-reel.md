@@ -1,6 +1,6 @@
 ---
 title:  Lady Hardwicks Reel
-permalink: /tune/lady-hardwicks-reel
+permalink: /tune/lady-hardwicks-reel.html
 layout: single
 classes: wide
 ---

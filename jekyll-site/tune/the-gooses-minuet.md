@@ -1,6 +1,6 @@
 ---
 title:  The Gooses Minuet
-permalink: /tune/the-gooses-minuet
+permalink: /tune/the-gooses-minuet.html
 layout: single
 classes: wide
 ---

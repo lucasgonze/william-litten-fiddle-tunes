@@ -1,6 +1,6 @@
 ---
 title:  The Scullion Peasant
-permalink: /tune/the-scullion-peasant
+permalink: /tune/the-scullion-peasant.html
 layout: single
 classes: wide
 ---

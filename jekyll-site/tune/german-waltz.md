@@ -1,6 +1,6 @@
 ---
 title:  German Waltz
-permalink: /tune/german-waltz
+permalink: /tune/german-waltz.html
 layout: single
 classes: wide
 ---

@@ -1,6 +1,6 @@
 ---
 title:  Scotts Reel
-permalink: /tune/scotts-reel
+permalink: /tune/scotts-reel.html
 layout: single
 classes: wide
 ---

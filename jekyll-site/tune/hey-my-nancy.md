@@ -1,6 +1,6 @@
 ---
 title:  Hey My Nancy
-permalink: /tune/hey-my-nancy
+permalink: /tune/hey-my-nancy.html
 layout: single
 classes: wide
 ---

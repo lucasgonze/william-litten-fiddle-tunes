@@ -1,6 +1,6 @@
 ---
 title:  The Banks Of Gray
-permalink: /tune/the-banks-of-gray
+permalink: /tune/the-banks-of-gray.html
 layout: single
 classes: wide
 ---

@@ -1,6 +1,6 @@
 ---
 title:  The Wounded Huzur
-permalink: /tune/the-wounded-huzur
+permalink: /tune/the-wounded-huzur.html
 layout: single
 classes: wide
 ---

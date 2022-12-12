@@ -1,6 +1,6 @@
 ---
 title:  The White Cochead
-permalink: /tune/the-white-cochead
+permalink: /tune/the-white-cochead.html
 layout: single
 classes: wide
 ---

@@ -1,6 +1,6 @@
 ---
 title:  From Night Till Morn
-permalink: /tune/from-night-till-morn
+permalink: /tune/from-night-till-morn.html
 layout: single
 classes: wide
 ---

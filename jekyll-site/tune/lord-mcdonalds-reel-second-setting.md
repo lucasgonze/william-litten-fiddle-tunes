@@ -1,6 +1,6 @@
 ---
 title:  Lord McDonalds Reel (Second Setting)
-permalink: /tune/lord-mcdonalds-reel-second-setting
+permalink: /tune/lord-mcdonalds-reel-second-setting.html
 layout: single
 classes: wide
 ---

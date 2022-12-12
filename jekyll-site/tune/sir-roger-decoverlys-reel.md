@@ -1,6 +1,6 @@
 ---
 title:  Sir Roger DeCoverlys Reel
-permalink: /tune/sir-roger-decoverlys-reel
+permalink: /tune/sir-roger-decoverlys-reel.html
 layout: single
 classes: wide
 ---

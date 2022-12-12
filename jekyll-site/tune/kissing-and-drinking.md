@@ -1,6 +1,6 @@
 ---
 title:  Kissing And Drinking
-permalink: /tune/kissing-and-drinking
+permalink: /tune/kissing-and-drinking.html
 layout: single
 classes: wide
 ---

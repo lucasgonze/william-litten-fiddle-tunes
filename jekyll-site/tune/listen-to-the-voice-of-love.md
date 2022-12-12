@@ -1,6 +1,6 @@
 ---
 title:  Listen To The Voice Of Love
-permalink: /tune/listen-to-the-voice-of-love
+permalink: /tune/listen-to-the-voice-of-love.html
 layout: single
 classes: wide
 ---

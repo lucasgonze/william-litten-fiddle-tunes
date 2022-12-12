@@ -1,6 +1,6 @@
 ---
 title:  Little Fannys Love
-permalink: /tune/little-fannys-love
+permalink: /tune/little-fannys-love.html
 layout: single
 classes: wide
 ---

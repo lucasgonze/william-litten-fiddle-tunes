@@ -1,6 +1,6 @@
 ---
 title:  The Curly Locks
-permalink: /tune/the-curly-locks
+permalink: /tune/the-curly-locks.html
 layout: single
 classes: wide
 ---

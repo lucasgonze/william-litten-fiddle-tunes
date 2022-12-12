@@ -1,6 +1,6 @@
 ---
 title:  Miss Manns Reel
-permalink: /tune/miss-manns-reel
+permalink: /tune/miss-manns-reel.html
 layout: single
 classes: wide
 ---

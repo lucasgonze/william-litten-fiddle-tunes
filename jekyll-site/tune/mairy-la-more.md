@@ -1,6 +1,6 @@
 ---
 title:  Mairy La More
-permalink: /tune/mairy-la-more
+permalink: /tune/mairy-la-more.html
 layout: single
 classes: wide
 ---

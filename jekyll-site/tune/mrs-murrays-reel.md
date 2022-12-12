@@ -1,6 +1,6 @@
 ---
 title:  Mrs. Murrays Reel
-permalink: /tune/mrs-murrays-reel
+permalink: /tune/mrs-murrays-reel.html
 layout: single
 classes: wide
 ---

@@ -1,6 +1,6 @@
 ---
 title:  Lord Summers Reel
-permalink: /tune/lord-summers-reel
+permalink: /tune/lord-summers-reel.html
 layout: single
 classes: wide
 ---

@@ -1,6 +1,6 @@
 ---
 title:  The Miners Of Wicklow
-permalink: /tune/the-miners-of-wicklow
+permalink: /tune/the-miners-of-wicklow.html
 layout: single
 classes: wide
 ---

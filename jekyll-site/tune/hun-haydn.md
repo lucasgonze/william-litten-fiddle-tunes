@@ -1,6 +1,6 @@
 ---
 title:  Hun Haydn
-permalink: /tune/hun-haydn
+permalink: /tune/hun-haydn.html
 layout: single
 classes: wide
 ---

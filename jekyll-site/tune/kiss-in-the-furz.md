@@ -1,6 +1,6 @@
 ---
 title:  Kiss In The Furz
-permalink: /tune/kiss-in-the-furz
+permalink: /tune/kiss-in-the-furz.html
 layout: single
 classes: wide
 ---

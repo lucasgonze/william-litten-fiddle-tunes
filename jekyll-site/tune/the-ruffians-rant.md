@@ -1,6 +1,6 @@
 ---
 title:  The Ruffians Rant
-permalink: /tune/the-ruffians-rant
+permalink: /tune/the-ruffians-rant.html
 layout: single
 classes: wide
 ---

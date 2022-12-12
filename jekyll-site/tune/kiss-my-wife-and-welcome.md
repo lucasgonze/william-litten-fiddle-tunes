@@ -1,6 +1,6 @@
 ---
 title:  Kiss My Wife And Welcome
-permalink: /tune/kiss-my-wife-and-welcome
+permalink: /tune/kiss-my-wife-and-welcome.html
 layout: single
 classes: wide
 ---

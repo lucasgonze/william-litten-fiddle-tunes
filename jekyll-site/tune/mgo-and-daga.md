@@ -1,6 +1,6 @@
 ---
 title:  Mgo And Daga
-permalink: /tune/mgo-and-daga
+permalink: /tune/mgo-and-daga.html
 layout: single
 classes: wide
 ---

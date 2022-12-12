@@ -1,6 +1,6 @@
 ---
 title:  Since Then I’m Doomed
-permalink: /tune/since-then-im-doomed
+permalink: /tune/since-then-im-doomed.html
 layout: single
 classes: wide
 ---

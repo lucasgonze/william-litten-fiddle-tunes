@@ -1,6 +1,6 @@
 ---
 title:  Sir David Hunter Blair
-permalink: /tune/sir-david-hunter-blair
+permalink: /tune/sir-david-hunter-blair.html
 layout: single
 classes: wide
 ---

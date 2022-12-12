@@ -1,6 +1,6 @@
 ---
 title:  Laural and Lindsay
-permalink: /tune/laural-and-lindsay
+permalink: /tune/laural-and-lindsay.html
 layout: single
 classes: wide
 ---

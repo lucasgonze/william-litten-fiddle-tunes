@@ -1,6 +1,6 @@
 ---
 title:  Navy Dance
-permalink: /tune/navy-dance
+permalink: /tune/navy-dance.html
 layout: single
 classes: wide
 ---

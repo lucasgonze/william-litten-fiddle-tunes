@@ -1,6 +1,6 @@
 ---
 title:  Yankee Doodle
-permalink: /tune/yankee-doodle
+permalink: /tune/yankee-doodle.html
 layout: single
 classes: wide
 ---

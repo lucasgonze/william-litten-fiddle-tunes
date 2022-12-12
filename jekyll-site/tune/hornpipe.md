@@ -1,6 +1,6 @@
 ---
 title:  Hornpipe
-permalink: /tune/hornpipe
+permalink: /tune/hornpipe.html
 layout: single
 classes: wide
 ---

@@ -1,6 +1,6 @@
 ---
 title:  Kiss My Lady
-permalink: /tune/kiss-my-lady
+permalink: /tune/kiss-my-lady.html
 layout: single
 classes: wide
 ---

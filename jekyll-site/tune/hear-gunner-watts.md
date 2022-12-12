@@ -1,6 +1,6 @@
 ---
 title:  Hear Gunner Watts
-permalink: /tune/hear-gunner-watts
+permalink: /tune/hear-gunner-watts.html
 layout: single
 classes: wide
 ---

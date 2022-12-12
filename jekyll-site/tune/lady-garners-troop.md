@@ -1,6 +1,6 @@
 ---
 title:  Lady Garners Troop
-permalink: /tune/lady-garners-troop
+permalink: /tune/lady-garners-troop.html
 layout: single
 classes: wide
 ---

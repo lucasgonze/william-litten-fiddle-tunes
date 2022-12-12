@@ -1,6 +1,6 @@
 ---
 title:  When In War On The Ochen
-permalink: /tune/when-in-war-on-the-ochen
+permalink: /tune/when-in-war-on-the-ochen.html
 layout: single
 classes: wide
 ---

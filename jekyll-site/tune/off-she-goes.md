@@ -1,6 +1,6 @@
 ---
 title:  Off She Goes
-permalink: /tune/off-she-goes
+permalink: /tune/off-she-goes.html
 layout: single
 classes: wide
 ---

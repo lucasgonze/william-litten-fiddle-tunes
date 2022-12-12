@@ -1,6 +1,6 @@
 ---
 title:  Litten Hornpipe
-permalink: /tune/litten-hornpipe
+permalink: /tune/litten-hornpipe.html
 layout: single
 classes: wide
 ---

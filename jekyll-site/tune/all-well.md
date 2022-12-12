@@ -1,6 +1,6 @@
 ---
 title:  All Well
-permalink: /tune/all-well
+permalink: /tune/all-well.html
 layout: single
 classes: wide
 ---

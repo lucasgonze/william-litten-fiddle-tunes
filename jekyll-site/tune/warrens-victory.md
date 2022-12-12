@@ -1,6 +1,6 @@
 ---
 title:  Warrens Victory
-permalink: /tune/warrens-victory
+permalink: /tune/warrens-victory.html
 layout: single
 classes: wide
 ---

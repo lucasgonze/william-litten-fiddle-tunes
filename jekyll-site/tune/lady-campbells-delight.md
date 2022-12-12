@@ -1,6 +1,6 @@
 ---
 title:  Lady Campbells Delight
-permalink: /tune/lady-campbells-delight
+permalink: /tune/lady-campbells-delight.html
 layout: single
 classes: wide
 ---

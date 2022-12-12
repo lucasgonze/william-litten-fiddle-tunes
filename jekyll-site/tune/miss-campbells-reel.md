@@ -1,6 +1,6 @@
 ---
 title:  Miss Campbells Reel
-permalink: /tune/miss-campbells-reel
+permalink: /tune/miss-campbells-reel.html
 layout: single
 classes: wide
 ---

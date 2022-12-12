@@ -1,6 +1,6 @@
 ---
 title:  Courtneys Rando
-permalink: /tune/courtneys-rando
+permalink: /tune/courtneys-rando.html
 layout: single
 classes: wide
 ---

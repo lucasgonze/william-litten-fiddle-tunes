@@ -1,6 +1,6 @@
 ---
 title:  Lord McDonalds Reel
-permalink: /tune/lord-mcdonalds-reel
+permalink: /tune/lord-mcdonalds-reel.html
 layout: single
 classes: wide
 ---

@@ -1,6 +1,6 @@
 ---
 title:  Miss Bairds Of New Bythe Straspey
-permalink: /tune/miss-bairds-of-new-bythe-straspey
+permalink: /tune/miss-bairds-of-new-bythe-straspey.html
 layout: single
 classes: wide
 ---

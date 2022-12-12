@@ -1,6 +1,6 @@
 ---
 title:  Cottilion
-permalink: /tune/cottilion
+permalink: /tune/cottilion.html
 layout: single
 classes: wide
 ---

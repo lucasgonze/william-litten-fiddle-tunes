@@ -1,6 +1,6 @@
 ---
 title:  Lummdon
-permalink: /tune/lummdon
+permalink: /tune/lummdon.html
 layout: single
 classes: wide
 ---

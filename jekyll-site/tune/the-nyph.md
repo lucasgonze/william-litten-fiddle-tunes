@@ -1,6 +1,6 @@
 ---
 title:  The Nyph
-permalink: /tune/the-nyph
+permalink: /tune/the-nyph.html
 layout: single
 classes: wide
 ---

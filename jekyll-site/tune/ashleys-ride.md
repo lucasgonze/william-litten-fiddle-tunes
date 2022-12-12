@@ -1,6 +1,6 @@
 ---
 title:  Ashleys Ride
-permalink: /tune/ashleys-ride
+permalink: /tune/ashleys-ride.html
 layout: single
 classes: wide
 ---

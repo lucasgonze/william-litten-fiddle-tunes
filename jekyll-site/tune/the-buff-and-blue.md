@@ -1,6 +1,6 @@
 ---
 title:  The Buff And Blue
-permalink: /tune/the-buff-and-blue
+permalink: /tune/the-buff-and-blue.html
 layout: single
 classes: wide
 ---

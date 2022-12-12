@@ -1,6 +1,6 @@
 ---
 title:  Welcome Here Again
-permalink: /tune/welcome-here-again
+permalink: /tune/welcome-here-again.html
 layout: single
 classes: wide
 ---

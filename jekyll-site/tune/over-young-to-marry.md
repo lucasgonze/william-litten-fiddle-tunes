@@ -1,6 +1,6 @@
 ---
 title:  Over Young To Marry
-permalink: /tune/over-young-to-marry
+permalink: /tune/over-young-to-marry.html
 layout: single
 classes: wide
 ---
